@@ -19,3 +19,4 @@ i,j,k=2,3.3,'pyati'
 print(k)
 print(i)
 print(j)
+print()
